@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Anketa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>sdfg</Name>
+  <Midlename>asdfgsdf</Midlename>
+  <Surname>dfgsfd</Surname>
+  <Country>Россия</Country>
+  <City>Санкт-Петербург</City>
+  <Phone>(111) 111-1111</Phone>
+  <Birthday>01.01.2024</Birthday>
+  <Gender>Мужской</Gender>
+</Anketa>

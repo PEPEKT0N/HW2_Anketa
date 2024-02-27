@@ -1,0 +1,12 @@
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\bin\Debug\HW_Anketa.exe.config
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\bin\Debug\HW_Anketa.exe
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\bin\Debug\HW_Anketa.pdb
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.csproj.AssemblyReference.cache
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.Properties.Resources.resources
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.Task1.resources
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.csproj.GenerateResource.cache
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.exe
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.pdb
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.Anketa_studenta.resources
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\HW_Anketa\obj\Debug\HW_Anketa.StopWatch.resources

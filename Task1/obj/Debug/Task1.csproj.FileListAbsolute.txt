@@ -1,0 +1,5 @@
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\Task1\obj\Debug\HW_Anketa.Task1.resources
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\Education\Desktop\WindowsForms\HW_Anketa\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
